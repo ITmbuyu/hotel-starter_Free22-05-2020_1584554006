@@ -142,7 +142,7 @@ button:hover {
 
 .w3l-coming-soon-page:before {
   content: "";
-  background: #222222a3;
+  background: #22222200;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -154,6 +154,7 @@ button:hover {
 
 .coming-page-info .logo-center {
   text-align: center;
+  margin-top: 50px;
 }
 
 .coming-page-info a.logo {
@@ -213,7 +214,7 @@ button:hover {
   margin: 0;
   font-size: 100px;
   font-weight: 700;
-  color: #fff;
+  color: #3d1e4a;
   line-height: 1em;
   text-shadow: 20px 20px 0px rgba(0, 0, 0, .25);
 }
@@ -222,7 +223,7 @@ button:hover {
   font-size: 30px;
   margin-bottom: .7em;
   margin-top: .2em;
-  color: #f9f9f9;
+  color: #3d1e4a;
 }
 
 .coming-page-info .countdown {
@@ -239,7 +240,7 @@ button:hover {
   font-size: 60px;
   font-weight: 700;
   line-height: 1.2;
-  color: #fff;
+  color: #3d1e4a;
 }
 
 .coming-page-info p {
@@ -268,7 +269,7 @@ button:hover {
 
 .w3l-copy-right p {
   max-width: 100%;
-  color: #eee;
+  color: #3d1e4a;
   font-size: 17px;
   line-height: 25px;
   font-weight: 400;
